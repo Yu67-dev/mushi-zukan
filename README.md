@@ -19,3 +19,23 @@
 - オニヤンマ: [Anotogaster sieboldii,2017-07-16.jpg](https://commons.wikimedia.org/wiki/File:Anotogaster_sieboldii,2017-07-16.jpg)
 
 各画像のライセンスは上記リンク先（CC BY-SA 等）に従います。音声はmacOSのKyoko音声で生成。
+
+### v4追加分（2026-09-06・18種）
+- アトラスオオカブト: [File:Chalcosoma.atlas.jpg](https://commons.wikimedia.org/wiki/File:Chalcosoma.atlas.jpg)
+- ネプチューンオオカブト: [File:Dynastes neptunes in captive.jpg](https://commons.wikimedia.org/wiki/File:Dynastes_neptunes_in_captive.jpg)
+- ゾウカブト: [File:Megasoma elephas ♂.jpg](https://commons.wikimedia.org/wiki/File:Megasoma_elephas_♂.jpg)
+- オウゴンオニクワガタ: [File:Allotopus rosenbergi.JPG](https://commons.wikimedia.org/wiki/File:Allotopus_rosenbergi.JPG)
+- タランドゥスオオツヤクワガタ: [File:Trandus.JPG](https://commons.wikimedia.org/wiki/File:Trandus.JPG)
+- アカアシクワガタ: [File:Rubrofemoratus.jpg](https://commons.wikimedia.org/wiki/File:Rubrofemoratus.jpg)
+- オオスズメバチ: [File:Vespa Mandarinia Magnifica - Filippo Turetta.jpg](https://commons.wikimedia.org/wiki/File:Vespa_Mandarinia_Magnifica_-_Filippo_Turetta.jpg)
+- タマムシ: [File:W tamamusi2081.jpg](https://commons.wikimedia.org/wiki/File:W_tamamusi2081.jpg)
+- カナブン: [File:Kanabun 20200724 132825.jpg](https://commons.wikimedia.org/wiki/File:Kanabun_20200724_132825.jpg)
+- ゴマダラカミキリ: [File:Anoplophora malasiaca.jpg](https://commons.wikimedia.org/wiki/File:Anoplophora_malasiaca.jpg)
+- ナナホシテントウ: [File:BIEDRONA.JPG](https://commons.wikimedia.org/wiki/File:BIEDRONA.JPG)
+- ゲンジボタル: [File:Luciola cruciata.jpg](https://commons.wikimedia.org/wiki/File:Luciola_cruciata.jpg)
+- トノサマバッタ: [File:Locusta migratoria.jpg](https://commons.wikimedia.org/wiki/File:Locusta_migratoria.jpg)
+- アゲハチョウ（ナミアゲハ）: [File:Papilio xuthus 1024px.jpg](https://commons.wikimedia.org/wiki/File:Papilio_xuthus_1024px.jpg)
+- アブラゼミ: [File:Graptopsaltria nigrofuscata1.jpg](https://commons.wikimedia.org/wiki/File:Graptopsaltria_nigrofuscata1.jpg)
+- ミンミンゼミ: [File:Oncotympana maculaticollis in Mount Ibuki.JPG](https://commons.wikimedia.org/wiki/File:Oncotympana_maculaticollis_in_Mount_Ibuki.JPG)
+- タガメ: [File:Lethocerus.jpg](https://commons.wikimedia.org/wiki/File:Lethocerus.jpg)
+- ゲンゴロウ: [File:Predaceous diving beetle.jpg](https://commons.wikimedia.org/wiki/File:Predaceous_diving_beetle.jpg)
