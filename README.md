@@ -20,7 +20,7 @@
 - オオカマキリ: [Tenodera aridifolia DSCN9675.jpg](https://commons.wikimedia.org/wiki/File:Tenodera_aridifolia_DSCN9675.jpg)
 - オニヤンマ: [Anotogaster sieboldii,2017-07-16.jpg](https://commons.wikimedia.org/wiki/File:Anotogaster_sieboldii,2017-07-16.jpg)
 
-各画像のライセンスは上記リンク先（CC BY-SA 等）に従います。音声はmacOSのKyoko音声で生成。
+各画像のライセンスは上記リンク先（CC BY-SA 等）に従います。音声は VOICEVOX:ずんだもん で生成（v7〜。それ以前はmacOSのKyoko音声）。
 
 ### v4追加分（2026-09-06・18種）
 - アトラスオオカブト: [File:Chalcosoma.atlas.jpg](https://commons.wikimedia.org/wiki/File:Chalcosoma.atlas.jpg)
